@@ -37,14 +37,10 @@ pip install pandas matplotlib seaborn folium
 ```
 ## Key Findings
 
-- Time of Day: Accidents peak around 5 PM, coinciding with the evening rush hour.
-- Casualties: Most accidents involve only one casualty.
-- Vehicles Involved: The majority of accidents involve two vehicles.
-- Road Conditions: Most accidents occur on dry roads, suggesting other factors may play significant roles.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+- **Time of Day:** Accidents peak around 5 PM, coinciding with the evening rush hour.
+- **Casualties:** Most accidents involve only one casualty.
+- **Vehicles Involved:** The majority of accidents involve two vehicles.
+- **Road Conditions:** Most accidents occur on dry roads, suggesting other factors may play significant roles.
 
 Acknowledgements
 ```
